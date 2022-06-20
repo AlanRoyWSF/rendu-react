@@ -1,0 +1,35 @@
+
+.container {
+
+display : flex;
+justify-content: center;
+text-align: center;
+height: 100vh;
+width: 100vw;
+background-image: url(../img/wallpaper\ 04.png);
+background-size: cover;
+
+}
+
+.container-2 {
+
+
+justify-content: center;
+text-align: center;
+padding-top: 40vh;
+width: 15vw;
+height: 15vh;
+}
+
+button {
+
+margin: 20px;
+padding:10px;
+
+}
+
+label {
+
+margin:10px;
+
+}

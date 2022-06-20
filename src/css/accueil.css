@@ -1,0 +1,28 @@
+
+.Coco {
+
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(4, 1fr);
+    grid-column-gap: 0px;
+    grid-row-gap: 0px; 
+    height: 100vh;
+    background-image: url(../img/wallpaper\ 04.png);
+    background-size: cover;
+}
+
+.b1 {
+
+    width: 20vw;
+    height: 10vh;
+    text-align: center;
+
+}
+
+.Coco-container{
+
+    grid-area:  3 / 1 / 4 / 2;
+    text-align: center;
+    padding-left: 40vw;
+    
+}
